@@ -1,0 +1,8 @@
+# Bundler
+vendor/bundle
+.bundle/
+
+# macOS
+.DS_Store
+
+google-key.json

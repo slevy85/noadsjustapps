@@ -1,0 +1,2 @@
+json_key_file("")  # Path to the JSON key file for Google Play API
+package_name("com.noadsjustapps.speedometer")

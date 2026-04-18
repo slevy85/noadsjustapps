@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="speedometer_title">Speedometer</string>
+    <string name="settings_title">Settings</string>
+    <string name="start_tracking">Start</string>
+    <string name="stop_tracking">Stop</string>
+    <string name="pause_tracking">Pause</string>
+    <string name="resume_tracking">Resume</string>
+    <string name="reset_ride">Reset</string>
+    <string name="speed_label">Speed</string>
+    <string name="distance_label">Distance</string>
+    <string name="time_label">Time</string>
+    <string name="avg_speed_label">Avg Speed</string>
+    <string name="max_speed_label">Max Speed</string>
+    <string name="metric_units">Metric (km/h)</string>
+    <string name="imperial_units">Imperial (mph)</string>
+    <string name="keep_screen_on">Keep Screen On</string>
+    <string name="location_permission_required">Location Permission Required</string>
+    <string name="location_permission_rationale">This app needs location access to track your speed and distance while cycling.</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
